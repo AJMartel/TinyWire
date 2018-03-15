@@ -12,8 +12,10 @@
 
 begin	   KEYWORD2
 write	   KEYWORD2
+send     KEYWORD2
 available  KEYWORD2
 read	   KEYWORD2
+receive  KEYWORD2
 tws_delay  KEYWORD2
 TinyWireS_stop_check	KEYWORD2
 
